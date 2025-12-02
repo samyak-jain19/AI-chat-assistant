@@ -1,0 +1,7 @@
+{
+  "name": "AI Chat Assistant",
+  "description": "Interactive AI assistant with document, image, and voice capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
